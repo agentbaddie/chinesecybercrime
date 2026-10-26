@@ -2,8 +2,8 @@
 Chinese Cybercrime Ecosystem keywords
 
 * short abbreviations *
-> ✈️: vpn
-> ✈️TG: telegram
+✈️: vpn
+✈️TG: telegram
 > WZ: earning $ from the internet
 > WD: online gambling or online loans
 > QP: chess or gambling games
