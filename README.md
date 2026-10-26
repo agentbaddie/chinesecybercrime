@@ -1,7 +1,7 @@
 # chinesecybercrime
 Chinese Cybercrime Ecosystem keywords
 
-* short abbreviations * <br>
+* short abbreviations *<br>
 > ✈️: vpn <br>
 > ✈️TG: telegram <br>
 > WZ: earning $ from the internet <br>
@@ -11,7 +11,8 @@ Chinese Cybercrime Ecosystem keywords
 > bc: (bocai) gambling, including gambling games <br>
 > SGK: social work library, social engineering database <br>
 <br>
-* dark web * <br>
+
+* dark web *<br>
 > 暗网: dark web <br>
 > 暗网下: deep web <br>
 > 暗网中文 : Chinese dark web <br>
@@ -19,9 +20,9 @@ Chinese Cybercrime Ecosystem keywords
 > 暗网网址 : dark web markets <br>
 > 暗网新闻 dark web news <br>
 <br>
-* keywords * <br><br>
 
-- data breaches (sdk dpi md5) - <br>
+* keywords *<br>
+- data breaches (sdk dpi md5) -<br>
 > 料: material, data <br>
 > 购买材: buying materials (data) <br>
 > 材料供应商: material (data) vendors <br>
@@ -60,7 +61,8 @@ Chinese Cybercrime Ecosystem keywords
 > 拖动库 (drag library) hacker compromises a website and exports its data <br>
 > 提货单 (bill of lading): data order form <br>
 <br>
-- social engineering libraries (sgk) - <br>
+
+- social engineering libraries (sgk) -<br>
 > 盒 (box): data (PII) <br>
 > 开盒者 (box opener): criminals that have access to PII (and usually SGK databases) <br>
 > 耗尽恶魔狩猎 (demon hunting): specific queries on an SGK database <br>
@@ -82,7 +84,8 @@ Chinese Cybercrime Ecosystem keywords
 > 二点五次元厕 (two and a half dimensional toilets): public figures in the internet toilet community <br>
 > 三次元厕 (three-dimensional toilets): ordinary people in the internet toilet community <br>
  <br>
-- financial fraud - <br>
+ 
+- financial fraud -<br>
 > CVV/POS: financial data <br>
 > cvv: 3 digits on the back of a card <br>
 > pos: point of sales machine <br>
@@ -90,7 +93,8 @@ Chinese Cybercrime Ecosystem keywords
 > 银行卡支付: credit card data <br>
 > 手输机: manual entry POS (physical systems) <br>
 <br>
-- phishing - <br>
+
+- phishing -<br>
 > 鱼 (fish): card information <br>
 > 钓竿 (fishing rod): phishing website <br>
 > 鱼站 (fish station: phishing website <br>
@@ -101,7 +105,8 @@ Chinese Cybercrime Ecosystem keywords
 > 是同步鱼 (synchronous fish): phishing platforms with real-time website (data visibiity) features <br>
 > 小白鱼 (small white fish): non-experienced [new pool] of phishing targets <br>
 <br>
-- sms hijacking - <br>
+
+- sms hijacking -<br>
 > 106 SMS: domestic text messages <br>
 > 106通道, 106 SM频道劫持: domestic text messages <br>
 > 106/SMS/RCS: domestic and overseas text messages <br>
@@ -109,11 +114,13 @@ Chinese Cybercrime Ecosystem keywords
 > 短信回复 (sms reply): phone data from sms attacks <br>
 > 短信标签 (sms label): phone data from sms attacks <br>
 <br>
-- red envelope scams (gambling games) - <br>
+
+- red envelope scams (gambling games) -<br>
 > 红信封 / 微信红包: digital red envelope <br>
 > 雷,我的 (thunder, mine): bomb in red envelope game (users have to pay if they get this) <br>
 <br>
-- malware - <br>
+
+- malware -<br>
 > 肉鸡,烤炉 (broiler chicken, broiler, puppet machine): botnets, computers used in DDoS attacks <br>
 > 抓鸡 (catch the chicken): try and control the computer <br>
 > 肉鸡原木 (broiler log): stealer logs <br>
@@ -127,7 +134,8 @@ Chinese Cybercrime Ecosystem keywords
 > 花卉说明 (flower instructions): adding redundant assembly instructions that don't affect the program's functionality, in an effort to bypass antivirus software (includes reversing the had and feet of the virus) <br>
 > 获取该站 (get the station): obtaining admin access to a website <br>
 <br>
-* slang phrases * <br>
+
+* slang phrases *<br>
 > 天使与魔鬼 (Angels and Demons): internal employees in the Public Security Bureau or Bank <br>
 > 红师教育 (red division education or master education): military and civilian recruitment or network <br>
 >  "特洛伊木马,黑鸽, 黑洞" (Trojan horse, black pigeon, black hole): fake program with executables used to obtain control permissions <br>
