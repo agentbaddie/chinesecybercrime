@@ -45,6 +45,8 @@ Chinese Cybercrime Ecosystem keywords
 > 单位数据: unit data <br>
 > 国内数据: domestic data <br>
 > 家常菜: domestic dish (data) <br>
+> 电销数据: telemarketing data<br>
+> APP活跃用户: active users on an APP (application)<br>
 > 中国数据: chinese data <br>
 > 菠菜数据: spinach/gambling data <br>
 > 密码: password <br>
@@ -122,7 +124,7 @@ Chinese Cybercrime Ecosystem keywords
 > 埋雷：gambling data<br>
 <br>
 
-- malware -<br>
+- malware<br>
 > 肉鸡,烤炉 (broiler chicken, broiler, puppet machine): botnets, computers used in DDoS attacks <br>
 > 抓鸡 (catch the chicken): try and control the computer <br>
 > 肉鸡原木 (broiler log): stealer logs <br>
@@ -137,7 +139,7 @@ Chinese Cybercrime Ecosystem keywords
 > 获取该站 (get the station): obtaining admin access to a website <br>
 <br>
 
-* slang phrases *<br>
+* slang phrases <br>
 > 天使与魔鬼 (Angels and Demons): internal employees in the Public Security Bureau or Bank <br>
 > 红师教育 (red division education or master education): military and civilian recruitment or network <br>
 >  "特洛伊木马,黑鸽, 黑洞" (Trojan horse, black pigeon, black hole): fake program with executables used to obtain control permissions <br>
@@ -150,3 +152,4 @@ Chinese Cybercrime Ecosystem keywords
 > 信封号码: envelope number (QQ number) <br>
 > 信: letter (QQ username and password pair) <br>
 > 接受这封信: stealing QQ numbers and passwords & saving them <br>
+> 大家都是在网上裸奔 (everyone’s running naked online): the belief that because everyone’s PII can be queried on the internet (through SGKs), they essentially have no privacy-especially in their online activities (the data they input online).
