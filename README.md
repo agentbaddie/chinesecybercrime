@@ -28,6 +28,7 @@ Chinese Cybercrime Ecosystem keywords
 > 材料供应商: material (data) vendors <br>
 > 数据中间商: data broker <br>
 > 数据: data <br>
+> 数据库：database <br>
 > 测试: sample <br>
 > 大数据:  big data (domestic data) <br>
 > 黑客数据: hacker data <br>
@@ -35,6 +36,8 @@ Chinese Cybercrime Ecosystem keywords
 > 一手数据: first-hand data <br>
 > 二手数据: second-hand data <br>
 > 三手数据: third-hand data <br>
+> 机主数据: machine owner data <br>
+> 快递数据: express delivery data <br>
 > 贷款数据: loan data <br>
 > 网购数据: online shopping data <br>
 > 电商数据: e-commerce data <br>
