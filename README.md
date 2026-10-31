@@ -88,6 +88,7 @@ Chinese Cybercrime Ecosystem keywords
 > 二次元厕 (two-dimensional toilets): fictional characters in the internet toilet community <br>
 > 二点五次元厕 (two and a half dimensional toilets): public figures in the internet toilet community <br>
 > 三次元厕 (three-dimensional toilets): ordinary people in the internet toilet community <br>
+> 数据资料泄露查询 : data leak information query <br>
  <br>
  
 - financial fraud<br>
