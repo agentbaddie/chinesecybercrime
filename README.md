@@ -9,6 +9,10 @@ Chinese Cybercrime Ecosystem keywords
 > QP: chess or gambling games <br>
 > AL: thunder (mine) - from online gambling games <br>
 > bc: (bocai) gambling, including gambling games <br>
+> WS: whatsapp <br>
+> FB: facebook <br>
+> INS: instagram<br>
+> TK: tiktok<br>
 > SGK: social work library, social engineering database <br>
 <br>
 
