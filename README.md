@@ -69,6 +69,8 @@ Chinese Cybercrime Ecosystem keywords
 > 公积金 (provident fund): pension fund, medical/injury/unemployment/maternity insurance, housing fund, etc from China's social security system <br>
 > 拖动库 (drag library) hacker compromises a website and exports its data <br>
 > 提货单 (bill of lading): data order form <br>
+> 海外获客: overseas customer acquisition <br>
+> 引流: traffic generation <br>
 <br>
 
 - social engineering libraries (sgk)<br>
@@ -125,7 +127,7 @@ Chinese Cybercrime Ecosystem keywords
 > 短信标签 (sms label): phone data from sms attacks <br>
 <br>
 
-- red envelope scams (gambling games) -<br>
+- red envelope scams (gambling games)<br>
 > 红信封 / 微信红包: digital red envelope <br>
 > 雷,我的 (thunder, mine): bomb in red envelope game (users have to pay if they get this) <br>
 > 牛牛玩家数据 : gambling data<br>
