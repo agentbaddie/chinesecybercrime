@@ -97,6 +97,27 @@ Chinese Cybercrime Ecosystem keywords
 > 数据资料泄露查询 : data leak information query <br>
  <br>
  
+- social engineering libraries (sgk) services<br>
+> 微信好友提取: extracting WeChat contacts <br>
+> 查女友: investigating a girlfriend <br>
+> 户口查询: household registration inquiry <br>
+> 查户口: household registration details <br>
+> 查人物轨迹: track individual's movement <br>
+> 手机定位: mobile phone location tracking<br>
+> 侦探: detective <br>
+> 开房记录: hotel check-in records <br>
+> 同住记录: co-residence records <br>
+> 查微信聊天记录: check WeChat chat history<br>
+> 查银行卡信息: check bank card information <br>
+> 查工作单位: employer details <br>
+> 就诊记录: medical visit records <br>
+> 查老赖: locating debtors who evade court-ordered payments <br>
+> 找回密码: password recovery <br>
+> 盗QQ: hacking/stealing QQ accounts <br>
+> 查父母信息: look up parents' personal information <br>
+> 黑客接单: hacking services for hire <br>
+ 
+ 
 - financial fraud<br>
 > CVV/POS: financial data <br>
 > cvv: 3 digits on the back of a card <br>
